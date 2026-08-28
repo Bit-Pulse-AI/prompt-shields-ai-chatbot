@@ -11,7 +11,7 @@ Security controls for AI chat are argued about in the abstract and bought on a s
 ## Quickstart
 
 ```bash
-git clone https://github.com/Bit-Pulse-AI/prompt-shields-ai-chatbot.git && cd prompt-shields-ai-chatbot
+git clone https://github.com/Prompt-Shields/prompt-shields-ai-chatbot.git && cd prompt-shields-ai-chatbot
 cp .env.example .env    # set AUTH_SECRET, OPENAI_API_KEY, POSTGRES_URL, BLOB_READ_WRITE_TOKEN
 pnpm install
 pnpm db:migrate
@@ -88,9 +88,9 @@ We do not monetise the code. We monetise hosting, enterprise controls, complianc
 ## Links
 
 - Documentation: [docs.promptshields.com](https://docs.promptshields.com)
-- The controls this is meant to host: [Bit-Pulse-AI/prompt-shields-sdk](https://github.com/Bit-Pulse-AI/prompt-shields-sdk)
-- Security policy: this repository has no `SECURITY.md`. Report vulnerabilities privately to security@promptshields.com, never via a public issue. The canonical policy is [prompt-shields-sdk/SECURITY.md](https://github.com/Bit-Pulse-AI/prompt-shields-sdk/blob/main/SECURITY.md).
-- Contributing: this repository has no `CONTRIBUTING.md`. See [prompt-shields-sdk/CONTRIBUTING.md](https://github.com/Bit-Pulse-AI/prompt-shields-sdk/blob/main/CONTRIBUTING.md) for the workflow we follow.
+- The controls this is meant to host: [Prompt-Shields/prompt-shields-sdk](https://github.com/Prompt-Shields/prompt-shields-sdk)
+- Security policy: this repository has no `SECURITY.md`. Report vulnerabilities privately to security@promptshields.com, never via a public issue. The canonical policy is [prompt-shields-sdk/SECURITY.md](https://github.com/Prompt-Shields/prompt-shields-sdk/blob/main/SECURITY.md).
+- Contributing: this repository has no `CONTRIBUTING.md`. See [prompt-shields-sdk/CONTRIBUTING.md](https://github.com/Prompt-Shields/prompt-shields-sdk/blob/main/CONTRIBUTING.md) for the workflow we follow.
 - Upstream: [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot), from which this is derived
 
 ## Licence
