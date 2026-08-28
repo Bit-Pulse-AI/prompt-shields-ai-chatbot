@@ -89,10 +89,11 @@ We do not monetise the code. We monetise hosting, enterprise controls, complianc
 
 - Documentation: [docs.promptshields.com](https://docs.promptshields.com)
 - The controls this is meant to host: [Prompt-Shields/prompt-shields-sdk](https://github.com/Prompt-Shields/prompt-shields-sdk)
-- Security policy: this repository has no `SECURITY.md`. Report vulnerabilities privately to security@promptshields.com, never via a public issue. The canonical policy is [prompt-shields-sdk/SECURITY.md](https://github.com/Prompt-Shields/prompt-shields-sdk/blob/main/SECURITY.md).
-- Contributing: this repository has no `CONTRIBUTING.md`. See [prompt-shields-sdk/CONTRIBUTING.md](https://github.com/Prompt-Shields/prompt-shields-sdk/blob/main/CONTRIBUTING.md) for the workflow we follow.
+- Security policy: [SECURITY.md](SECURITY.md) — report vulnerabilities privately to security@promptshields.com, never via a public issue
+- Contributing: [CONTRIBUTING.md](CONTRIBUTING.md)
+- Code of conduct: [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
 - Upstream: [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot), from which this is derived
 
 ## Licence
 
-Apache 2.0 — see [LICENSE](LICENSE). Copyright 2024 Vercel, Inc. for the upstream template; modifications are licensed under the same terms.
+Apache 2.0 — see [LICENSE](LICENSE) and [NOTICE](NOTICE). Copyright 2024 Vercel, Inc. for the upstream template; modifications are licensed under the same terms.
